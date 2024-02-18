@@ -29,6 +29,9 @@
 .navBar .hamburger_title .services {
   display: none;
 }
+.navBar .hamburger_title .services ul li{
+  cursor:pointer;
+}
 .navBar .hamburger_title .mobile_menu {
   display: none;
   position: absolute;
